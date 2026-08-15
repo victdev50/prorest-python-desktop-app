@@ -1,0 +1,37 @@
+# To create notifications
+plyer
+
+# To create the interface
+PyQt5
+ 
+# To connect to mysql
+mysqlclient
+mysql-connector-python
+
+# To play music
+pafy
+python-vlc
+youtube-dl==2020.12.2
+
+# To schedule code excution
+schedule
+
+# To test code quality
+bandit
+cohesion
+flake8
+flake8-docstrings
+flake8-polyfill
+#metrics.pylint
+pylint
+radon
+
+# Code style
+black
+
+# Documentation
+pdoc3
+sphinx
+
+# Unit test and coverage
+coverage

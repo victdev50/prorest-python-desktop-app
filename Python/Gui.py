@@ -445,7 +445,7 @@ class Ui_Prorest(QDialog):
         self.quote_label = QtWidgets.QLabel(self.tab_6)
         self.quote_label.setGeometry(QtCore.QRect(0, 0, 1161, 751))
         self.quote_label.setText("")
-        self.quote_label.setPixmap(QtGui.QPixmap("../Python/BG/funny.jpg"))
+        self.quote_label.setPixmap(QtGui.QPixmap("../Python/BG/quote-background.jpg"))
         self.quote_label.setScaledContents(True)
         self.quote_label.setObjectName("quote_label")
         self.quote_label_1 = QtWidgets.QLabel(self.tab_6)
